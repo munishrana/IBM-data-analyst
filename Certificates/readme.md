@@ -8,7 +8,7 @@ Power your data analyst career by learning the core principles of data analysis 
 
 This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data. It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions for you to apply and practice on a live spreadsheet
 
-Introudction
+Introduction
 
 Excel Basics for Data Analytics
 This course starts with an introduction to spreadsheets like Microsoft Excel and Google Sheets and loading data from multiple formats. With this introduction you will then learn to perform some basic level data wrangling and cleansing tasks and continue to expand your knowledge of analyzing data through the use of filtering, sorting, and using pivot tables within the spreadsheet. By performing these tasks throughout the course, it will give you an understanding of how spreadsheets can be used as a data analysis tool and understand its limitations.
@@ -30,8 +30,6 @@ Python for Data Science, AI & Development
 This course will take you from zero to programming in Python in a matter of hours—no prior programming experience necessary! You will learn Python fundamentals, including data structures and data analysis, complete hands-on exercises throughout the course modules, and create a final project to demonstrate your new skills.
 
 By the end of this course, you’ll feel comfortable creating basic programs, working with data, and solving real-world problems in Python. You’ll gain a strong foundation for more advanced learning in the field, and develop skills to help advance your career.
-
-
 
 Python Project for Data Science
 Welcome to this Python Project!
