@@ -2,6 +2,7 @@ Course Structure
 There are 9 Courses in this Professional Certificate Specialization are as follows:
 
 Introduction to Data Analysis
+
 This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions. You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining. You will then learn the soft skills that are required to effectively communicate your data to stakeholders, and how mastering these skills can give you the option to become a data driven decision maker.
 
 Power your data analyst career by learning the core principles of data analysis and gaining hands-on skills practice. You’ll work with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Python, Jupyter Notebooks, and Cognos Analytics, gaining practical experience with data manipulation and applying analytical techniques.
